@@ -1,16 +1,25 @@
-## Hi there 👋
+# <div align="center"> :waning_gibbous_moon: Welcome, make yourself at home :shrimp: </div>
 
-<!--
-**lu4vic/lu4vic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> :black_heart: Hope this repo finds you well. :purple_heart: </div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align="center"> Lua Victória Coelho </div>
+
+<div align="center">🌕    🥇       🐰</div>
+
+## Me :shrimp:
+
+<table>
+<tr>
+<td>
+
+- :rabbit2: Lua Victória Coelho :rabbit:
+- :envelope: luavictoriacoelho@gmail.com :email:
+- :lab_coat: _Chemistry_ | :test_tube: _Biochemistry_  | :pill: _Pharmacy_
+- :woman_scientist: _Research_&ensp;&nbsp;| ✨ _Spectroscopy_ | :microscope: _Materials Science_
+- :brazil: São Paulo | :red_haired_woman: She/Her
+
+</td>
+</tr>
+</table>
